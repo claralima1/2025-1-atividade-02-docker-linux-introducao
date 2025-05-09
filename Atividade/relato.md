@@ -18,7 +18,7 @@ A junção desses comandos cria e inicia um novo contêiner Docker baseado na im
 
 ## 2. Navegação Básica
 
-![imagem 0](/Atividade/Imagens/imagem1.PNG)
+![imagem 1](/Atividade/Imagens/imagem1.PNG)
 
 * O comando **"pwd"** foi utilizado para verificar em qual diretório está.
 
@@ -32,7 +32,7 @@ A junção desses comandos cria e inicia um novo contêiner Docker baseado na im
 
 ## 3. Manipulação de Arquivos
 
-![imagem 0](/Atividade/Imagens/imagem2.PNG)
+![imagem 2](/Atividade/Imagens/imagem2.PNG)
 
 * O comando **"cd ~"**  é executado para voltar ao diretório **"home"**.
 
@@ -60,23 +60,23 @@ A junção desses comandos cria e inicia um novo contêiner Docker baseado na im
 
 ## 4. Gerenciamento de pacotes
 
-![imagem 0](/Atividade/Imagens/imagem4.PNG)
+![imagem 3](/Atividade/Imagens/imagem4.PNG)
 
 * O comando **"dnf update -y"** foi executado para listar os pacotes.
 
-![imagem 0](/Atividade/Imagens/imagem6.PNG)
+![imagem 4](/Atividade/Imagens/imagem6.PNG)
 
 * O comando **"dnf install nano -y"** foi utilizado para instalar o editor de texto 
 **nano**.
 
-![imagem 0](/Atividade/Imagens/imagem7.PNG)
+![imagem 5](/Atividade/Imagens/imagem7.PNG)
 
 
 * o comando **"dnf remove nano -y"** foi executado para remover o nano.
 
 ## 5. Permissões de arquivos
 
-![imagem 0](/Atividade/Imagens/imagem8.PNG)
+![imagem 6](/Atividade/Imagens/imagem8.PNG)
 
 * O comando **"touch script.sh"** foi executado para criar um arquivo chamado **script.sh**.
 
@@ -86,8 +86,8 @@ A junção desses comandos cria e inicia um novo contêiner Docker baseado na im
 
 ## 6. Processos em Execução
 
-![imagem 0](/Atividade/Imagens/imagem9.PNG)
-![imagem 0](/Atividade/Imagens/imagem10.PNG)
+![imagem 7](/Atividade/Imagens/imagem9.PNG)
+![imagem 8](/Atividade/Imagens/imagem10.PNG)
 
 * O comando **"ps aux"** foi executado para listar os processos em execução.
 
@@ -99,8 +99,8 @@ A junção desses comandos cria e inicia um novo contêiner Docker baseado na im
 
 ## 6. Encerrando o Contêiner
 
-![imagem 0](/Atividade/Imagens/imagem10.PNG)
-![imagem 0](/Atividade/Imagens/imagem11.PNG)
+![imagem 9](/Atividade/Imagens/imagem10.PNG)
+![imagem 10](/Atividade/Imagens/imagem11.PNG)
 
 * O comando **"exit"** foi executado para sar do contêiner.
 
